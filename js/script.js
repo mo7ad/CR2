@@ -4,7 +4,7 @@ let tasks = [
     caption: "Coding",
     description: "Learn Front End enjoy Learn Front End enjoy Learn Front End enjoy",
     level: "&#9888; priority level:",
-    picture: "../media/cod.jfif",
+    picture: "media/cod.jfif",
     priority: 0,
   },
   {
@@ -12,7 +12,7 @@ let tasks = [
     description:
       "One of the simplest and most fun things on weekends is going out for a walk.",
     level: "&#9888; priority level:",
-    picture: "../media/walk.jfif",
+    picture: "media/walk.jfif",
     priority: 0,
   },
   {
@@ -20,7 +20,7 @@ let tasks = [
     description:
       "Once again, running will not require spending any money, only your energies.",
     level: "&#9888; priority level:",
-    picture: "../media/run.jfif",
+    picture: "media/run.jfif",
     priority: 0,
   },
   {
@@ -28,7 +28,7 @@ let tasks = [
     description:
       "Swimming is good for your health and keeps you fit. If you fall in love with it.",
     level: "&#9888; priority level:",
-    picture: "../media/swi.jfif",
+    picture: "media/swi.jfif",
     priority: 0,
   },
   {
@@ -36,7 +36,7 @@ let tasks = [
     description:
       "Resolve to have extreme fun this weekend with dancing.",
     level: "&#9888; priority level:",
-    picture: "../media/dance.jfif",
+    picture: "media/dance.jfif",
     priority: 0,
   },
   {
@@ -44,7 +44,7 @@ let tasks = [
     description:
       "If you are looking for fun stuff to do this weekend.",
     level: "&#9888; priority level:",
-    picture: "../media/sport.jfif",
+    picture: "media/sport.jfif",
     priority: 0,
   },
   {
@@ -52,7 +52,7 @@ let tasks = [
     description:
       "There is no age discrimination at a playground. ",
     level: "&#9888; priority level:",
-    picture: "../media/checklisti2.png",
+    picture: "media/checklisti2.png",
     priority: 0,
   },
   {
@@ -60,14 +60,14 @@ let tasks = [
     description:
       "Plan a car boot sale yourself or visit your neighbor who ",
     level: "&#9888; priority level:",
-    picture: "../media/car.jfif",
+    picture: "media/car.jfif",
     priority: 0,
   },
   {
     caption: "Visit Friends",
     description: "that maybe make u happy  ",
     level: "&#9888; priority level:",
-    picture: "../media/R.jfif",
+    picture: "media/R.jfif",
     priority: 0,
   },
 ];
