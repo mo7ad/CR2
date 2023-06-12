@@ -5,7 +5,7 @@ let tasks = [
     description: "Learn Front End enjoy Learn Front End enjoy Learn Front End enjoy",
     level: "&#9888; priority level:",
     picture: "media/cod.jfif",
-    priority: 0,
+    priority: 0
   },
   {
     caption: "Go For a Walk",
@@ -13,7 +13,7 @@ let tasks = [
       "One of the simplest and most fun things on weekends is going out for a walk.",
     level: "&#9888; priority level:",
     picture: "media/walk.jfif",
-    priority: 0,
+    priority: 0
   },
   {
     caption: "Go For a Run",
@@ -21,7 +21,7 @@ let tasks = [
       "Once again, running will not require spending any money, only your energies.",
     level: "&#9888; priority level:",
     picture: "media/run.jfif",
-    priority: 0,
+    priority: 0
   },
   {
     caption: "Go Swimming",
@@ -29,7 +29,7 @@ let tasks = [
       "Swimming is good for your health and keeps you fit. If you fall in love with it.",
     level: "&#9888; priority level:",
     picture: "media/swi.jfif",
-    priority: 0,
+    priority: 0
   },
   {
     caption: "Dance",
@@ -37,7 +37,7 @@ let tasks = [
       "Resolve to have extreme fun this weekend with dancing.",
     level: "&#9888; priority level:",
     picture: "media/dance.jfif",
-    priority: 0,
+    priority: 0
   },
   {
     caption: "Community Sports",
@@ -45,7 +45,7 @@ let tasks = [
       "If you are looking for fun stuff to do this weekend.",
     level: "&#9888; priority level:",
     picture: "media/sport.jfif",
-    priority: 0,
+    priority: 0
   },
   {
     caption: "Head to the Playground",
@@ -53,7 +53,7 @@ let tasks = [
       "There is no age discrimination at a playground. ",
     level: "&#9888; priority level:",
     picture: "media/checklisti2.png",
-    priority: 0,
+    priority: 0
   },
   {
     caption: "Car Boot Sales",
@@ -68,7 +68,7 @@ let tasks = [
     description: "that maybe make u happy  ",
     level: "&#9888; priority level:",
     picture: "media/R.jfif",
-    priority: 0,
+    priority: 0
   },
 ];
 
